@@ -1,0 +1,8 @@
+@font-face {
+  font-family: lemon;
+  src: url(lemonmilk.otf);
+}
+
+body {
+  font-family: lemon;
+}
